@@ -9,4 +9,3 @@ $ cd <project>
 ```
 
 Open index.html 
-update
